@@ -72,10 +72,10 @@ The dashboard opens at http://localhost:8501. If `city_day.csv` is not in the fo
 ## Project structure
 
 ```
-├── YourName_IndiaAirQuality.py   # complete application: cleaning, analysis, model and dashboard
+├── Siddhi_Pandhere_IndiaAirQuality.py   # complete application: cleaning, analysis, model and dashboard
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # this file
-├── YourName_ProjectReport.docx   # project report
+├── Siddhi_Pandhere_ProjectReport.docx   # project report
 └── .streamlit/
     └── config.toml               # keeps the dashboard in its light colour theme
 ```
