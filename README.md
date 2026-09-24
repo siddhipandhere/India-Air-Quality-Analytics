@@ -56,8 +56,8 @@ Python, Pandas, NumPy, Scikit-learn, Plotly, Streamlit
 Use Python 3.10–3.13.
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/siddhipandhere/India-Air-Quality-Analytics.git
+cd India-Air-Quality-Analytics
 pip install -r requirements.txt
 ```
 
