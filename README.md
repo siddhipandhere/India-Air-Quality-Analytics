@@ -64,7 +64,7 @@ pip install -r requirements.txt
 Download `city_day.csv` from the Kaggle link above and place it in the same folder as the code file (the other CSV files in the dataset are not needed), then run:
 
 ```bash
-python -m streamlit run YourName_IndiaAirQuality.py
+python -m streamlit run Siddhi_Pandhere_IndiaAirQuality.py
 ```
 
 The dashboard opens at http://localhost:8501. If `city_day.csv` is not in the folder, the app lets you upload it from the sidebar.
